@@ -1,2 +1,1 @@
-# kanboard_dfy
-Kanban Board
+Genesys Professionals Forum for iBeads
